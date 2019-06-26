@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\bin\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.deps.json
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\bin\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.runtimeconfig.json
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\bin\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\bin\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.dll
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\bin\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.pdb
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.dll
+C:\Users\Admin\source\repos\EisenhowerDecisionMatrix\EisenhowerDecisionMatrix\obj\Debug\netcoreapp2.2\EisenhowerDecisionMatrix.pdb

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Eisenhower Decision Matrix</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<link rel="stylesheet" href="lib/twitter-bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="lib/jqueryui/jquery-ui.min.css" />
+	<link rel="stylesheet" href="assets/todo.css" />
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div>
+				<h1>Eisenhower Decision Matrix</h1>
+			</div>
+		</div>
+	</header>
+	<div class="container">
+		<div class="row  row-content align-items-center">
+			<div class="col-1"></div>
+			<div class="task-list col-5" id="UrgentAndImportant">
+				<h3>Do</h3>
+				<i>Urgent and Important</i>
+			</div>
+
+			<div class="task-list col-5" id="NotUrgentAndImportant">
+				<h3>Decide</h3>
+				<i>Not Urgent but Important</i>
+			</div>
+			<div class="col-1"></div>
+			<div class="task-list col-5" id="UrgentButNotImportant">
+				<h3>Delegate</h3>
+				<i>Urgent but not Important</i>
+			</div>
+
+			<div class="task-list col-5" id="NotUrgentNotImportant">
+				<h3>Delete</h3>
+				<i>Neither Urgent Nor Important</i>
+			</div>
+		</div>
+		<div class="row  row-content align-items-center task-add">
+			<div class="col-1"></div>
+			<div class="col-11 "><h3>Add new item:</h3></div>
+			<div class="col-1"></div>
+			<div class="form-row col-11">
+				<form id="todo-form">
+					<input id="title" type="text" placeholder="Title" />
+					<input id="description" type="text" placeholder="Description" />
+					<input type="checkbox" id="urgent" name="urgent">
+					<label for="urgent">Is Urgent?</label>
+					<input type="checkbox" id="imp" name="imp">
+					<label for="imp">Is Important?</label>
+					<input type="button" class="btn btn-primary" value="Add Task" onclick="additem();" />
+				</form>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="lib/twitter-bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="lib/jqueryui/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="assets/todo.js"></script>
+</body>
+</html>
